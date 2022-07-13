@@ -1,7 +1,7 @@
-const Li = (src, alt) => {
+const Li = ({url, text}) => {
     return (
         <li>
-            <img className="icon" src={src.url} alt={alt.text} />
+            <img className="icon" src={url} alt={text} />
         </li>
     )
 }

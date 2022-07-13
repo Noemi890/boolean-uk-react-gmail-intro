@@ -1,5 +1,6 @@
 import NavBar from './NavBar'
 import MainContent from './MainContent'
+import '../../styles/Main/main.css'
 
 const Main = () => {
   return (

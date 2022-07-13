@@ -1,5 +1,6 @@
 import NavMenu from "./NavMenu"
 import SearchBar from "./SearchBar"
+import '../../styles/Header/header.css'
 
 const Header = () => {
   return (

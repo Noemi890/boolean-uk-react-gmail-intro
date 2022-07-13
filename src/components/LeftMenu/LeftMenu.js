@@ -1,4 +1,5 @@
 import InboxList from "./InboxList"
+import '../../styles/LeftMenu/leftMenu.css'
 
 const LeftMenu = () => {
   return (
